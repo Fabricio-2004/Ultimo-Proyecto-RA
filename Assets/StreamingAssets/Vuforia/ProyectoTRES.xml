@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="personajepico" size="100.000000 186.697250" />
+    <ImageTarget name="personajedos" size="100.000000 124.888885" />
+    <ImageTarget name="personajeuno" size="100.000000 177.717392" />
+    <ImageTarget name="astronaut" size="1.000000 1.727273" />
+    <ImageTarget name="fissure" size="1.000000 1.727273" />
+    <ImageTarget name="drone" size="1.000000 1.727273" />
+    <ImageTarget name="oxygen" size="1.000000 1.727273" />
+  </Tracking>
+</QCARConfig>
